@@ -24,6 +24,12 @@ And this was odd, because it was
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+When I was young, we dwelt in a vale  
+By a misty fen that rang all night,  
+And thus it was the maidens pale  
+I knew so well, whose garments trail  
+Across the reeds to a window light.  
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
