@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Jacqueline Morris"
+date: "October 1, 2023"
 output: html_document
 ---
 
@@ -41,3 +41,28 @@ And this was odd, because it was
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+The morning wakes with golden light,  
+And paints the clouds in colors bright.  
+The birds begin their gentle song,  
+As sleepy streets move right along.  
+
+A cool breeze dances through the trees,  
+And carries whispers on the breeze.  
+The flowers open, one by one,  
+To greet the warmth of morning sun.  
+
+The day moves slowly, calm and clear,  
+With little moments drawing near.  
+A smile, a laugh, a friendly face,  
+Can make the world a better place.  
+
+When afternoon begins to fade,  
+The sunlight softens through the shade.  
+The sky turns orange, then deep blue,  
+And stars appear in skies anew.  
+
+The moon shines softly from above,  
+The night is filled with peace and love.  
+Tomorrow brings another start,  
+Another chance to fill the heart.  
